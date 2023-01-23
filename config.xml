@@ -37,6 +37,7 @@
     <string>JNLP2-connect</string>
   </disabledAgentProtocols>
   <label></label>
+  
   <crumbIssuer class="hudson.security.csrf.DefaultCrumbIssuer">
     <excludeClientIPFromCrumb>false</excludeClientIPFromCrumb>
   </crumbIssuer>
